@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "idari_yapimiz";
+}
+<div class="p-content">
+    <div class="p-cont-header clearfix ">
+        <h1 class="large-mob-font">DİLTAS A.S.</h1>
+    </div>
+    <div class="cont-wrp idari-yap-wrp">
+        <ul>
+            <li class="clearfix">
+                <div class="clearfix">
+                    <p class="clearfix">Yönetim Kurulu Başkanlığı</p>
+                    <h4 class="clearfix"> Sümeyra Dogan Sümeyra </h4>
+                    <span> sumeyra.dogan@diltas.com</span>
+                </div>
+            </li>
+            <li class="clearfix">
+                <div class="clearfix">
+                    <p class="clearfix">Yönetim Kurulu Başkanlığı Koordinatörlüğü</p>
+                    <h4 class="clearfix">Sümeyra Dogan Sümeyra Dogan Sümeyra Dogan Sümeyra Dogan</h4>
+                    <span>sumeyra.dogan@diltas.com</span>
+                </div>
+            </li>
+            <li class="clearfix">
+                <div class="clearfix">
+                    <p>Yönetim Kurulu Başkanlığı Koordinatörlüğü</p>
+                    <h4>Sümeyra Dogan</h4>
+                    <span>sumeyra.dogan@diltas.com</span>
+                </div>
+            </li>
+            <li class="clearfix">
+                <div class="clearfix">
+                    <p class="clearfix">Yönetim Kurulu Başkanlığı Koordinatörlüğü</p>
+                    <h4 class="clearfix">Sümeyra Dogan</h4>
+                    <span>sumeyra.dogan@diltas.com</span>
+                </div>
+            </li>
+            <li class="clearfix">
+                <div>
+                    <p class="clearfix">Yönetim Kurulu Başkanlığı Koordinatörlüğü</p>
+                    <h4 class="clearfix">Sümeyra Dogan</h4>
+                    <span>sumeyra.dogan@diltas.com</span>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="dev-arr-wrp dev-with-text">
+        <a href="#">devam</a>
+    </div>
+</div>

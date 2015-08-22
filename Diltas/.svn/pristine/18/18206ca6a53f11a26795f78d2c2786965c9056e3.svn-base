@@ -1,0 +1,184 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+  
+    <link href="Content/animsition.css" rel="stylesheet" />  
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/site.css" rel="stylesheet" />   
+    <base href="http://localhost:28223/" />
+</head>
+<body>
+    <div class="body-container">
+        <div class="p-header">
+            <button type="button" class="left-menu-toggle desk-hidden js-lm-toggle pull-left collapsed"></button>
+            <div class="brand-type">
+                <p>Özel</p>
+                <p>Diltaş Eğitim Kurumları</p>
+            </div>
+            <a href="/" class="main-logo"><img src="Content/Images/logo.png" /></a>
+            <p class="logo-text mob-hidden">“Eğitimde Önder”</p>
+            <a class="btn js-rm-toggle r-menu-btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            </a>
+
+
+            <div class="js-left-menu left-menu">
+                <ul class="">
+                    <li>
+                        <a href="/">ATATÜRK KÖŞESİ</a>
+                        <div class="desk-lm-descrp signif-block ">
+                            <p>Ey yükselen yeni nesil! Gelecek sizindir. Cumhuriyeti biz kurduk, onu devam ettirecek sizlersiniz.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/">DUYURULAR</a>
+                        <div class="desk-lm-descrp duyur-block">
+                            <p>
+                                Ey yükselen yeni nesil! Gelecek sizindir. Cumhuriyeti biz kurduk, onu devam ettirecek sizlersiniz.
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="/">YAYINLARIMIZ</a>
+                        <div class="desk-lm-descrp books-block"> </div>
+                    </li>
+                    <li class="js-extend-menu-wrp">
+                        <a href="javascript:void(0)" data-mob-url="/" class="marked-lm-item js-marked-lm-item">ÇÖZÜM ORTAKLARIMIZ VE AKREDİTASYONLARIMIZ</a>
+                        <div class="extened-menu js-extened-menu mob-hidden">
+                            <a href="/" class="marked-lm-item cozum-item">
+                                Lorem Ipsum.
+                                Proin gravida nibh vel velit
+                            </a>
+                            <a href="/" class="marked-lm-item cozum-item">
+                                Lorem Ipsum.
+                                Proin gravida nibh vel velit
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+                <div class="desk-social-block">
+                    <a href="/" class="fb-btn"></a> <a href="/" class="tw-btn"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="nav-collapse collapse rm-container ">
+        <div class="js-right-menu right-menu ">
+            <a href="/" class="home-link mob-hidden"></a>
+            <ul class="first-level js-first-level">
+                <li class="hak-item">
+                    <a href="javascript:void(0)">Hakkımızda <span></span> </a>
+                    <ul class="second-level js-second-level">
+                        <li>
+                            <a href="javascript:void(0)">Hakkımızda</a>
+                            <ul class="third-level js-third-level">
+                                <li>
+                                    <a href="/tarihcemiz_1.html">Tarihçemiz</a>
+                                </li>
+                                <li>
+                                    <a href="/tarihcemiz_2.html">Vizyonumuz Misyonumuz</a>
+                                </li>
+                                <li>
+                                    <a href="/sportif_faaliyetler.html">Eğtim Anlayışımız</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a>Vizyonumuz Misyonumuz</a>
+                            <ul class="third-level js-third-level">
+                                <li>
+                                    <a href="/tarihcemiz_1.html">Tarihçemiz</a>
+                                </li>
+                                <li>
+                                    <a href="/tarihcemiz_2.html">Vizyonumuz Misyonumuz</a>
+                                </li>
+                                <li>
+                                    <a href="/sportif_faaliyetler.html">Eğtim Anlayışımız</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/egitim_kadromuz.html">Eğtim Anlayışımız</a>
+                        </li>
+                        <li>
+                            <a href="/">idari Birimlerimiz</a>
+                        </li>
+                        <li>
+                            <a href="/">Okul Aile Birliği</a>
+                        </li>
+                        <li>
+                            <a href="/">Atatürk Köşesi</a>
+                        </li>
+                        <li>
+                            <a href="/">Diltaşlıllar Derneği</a>
+                        </li>
+                        <li>
+                            <a href="/">IK Politikamız</a>
+                        </li>
+                        <li>
+                            <a href="/">
+                                Logo ve
+                                Görsellerimiz
+                            </a>
+                        </li>
+
+                    </ul>
+                </li>
+                <li class="dilt-yas-item">
+                    <a href="javascript:void(0)">Diltaş’ta Yaşam <span></span> </a>
+                    <ul class="second-level js-second-level">
+                        <li>
+                            <a>Hakkımızda</a>
+                            <ul class="third-level js-third-level">
+                                <li>
+                                    <a href="/">Tarihçemiz</a>
+                                </li>
+                                <li>
+                                    <a href="/">Vizyonumuz Misyonumuz</a>
+                                </li>
+                                <li>
+                                    <a href="/">Eğtim Anlayışımız</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/ogs_basarilari.html">Vizyonumuz Misyonumuz</a>
+                        </li>
+                        <li>
+                            <a href="/guncel_haberler.html">Eğtim Anlayışımız</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="bas-item"><a href="/idari_yapimiz.html">Başarılarımız <span></span> </a></li>
+                <li class="biz-ul-item"><a href="/">Bize Ulaşın <span></span> </a></li>
+                <li class="hab-item"><a href="/haber_arsivi_sm.html"> Haberler <span></span> </a></li>
+                <li class="yainl-item"><a href="/">Yayınlarımız <span></span> </a></li>
+                <li class="okull-item"><a href="/">Okullarımız <span></span> </a></li>
+                <li class="desk-hidden home-link-mob"><a href="/" class="home-link  desk-hidden js-home-link"><span></span></a></li>
+            </ul>          
+            <div class="lang-switch-wrp js-lang-switch">
+                <div class="lang-switch js-lang-switch">
+                    <a href="/" class="active-lang">tr</a> <a href="/">en</a>
+                </div>
+            </div>
+            </div>
+    </div>
+
+
+
+    <div class="body-content js-body-content">
+        @RenderBody()
+    </div>
+
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <script src="Scripts/moment.min.js"></script>
+    <script src="Scripts/Diltas.js"></script>
+    <script src="Scripts/bootstrap.js"></script>    
+    <script src="Scripts/respond.js"></script>
+    <script src="Scripts/animsition.js"></script>
+    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

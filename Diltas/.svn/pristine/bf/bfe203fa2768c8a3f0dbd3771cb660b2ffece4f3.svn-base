@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "gazete_diltas";
+}
+<div class="bg-page-wrp">
+    <img class="gaz-img-1-pos" src="Content/Images/gaz-img-1.png" />
+    <img class="gaz-img-2-pos" src="Content/Images/gaz-img-2.png" />
+    <img class="gaz-img-3-pos" src="Content/Images/gaz-img-3.png" />
+    <img class="gaz-img-4-pos" src="Content/Images/gaz-img-4.png" />
+    <img class="gaz-img-5-pos" src="Content/Images/gaz-img-5.png" />
+    <img class="gaz-paper-pos" src="Content/Images/gaz-paper.png" />
+</div>
+<div class="p-content">
+    <div class="p-cont-header clearfix ">
+        <h2 class="gaz-large-title"><span class="slant-line"></span>GAZETE DİLTAŞ</h2>
+    </div>
+    <div class="cont-wrp gaz-wrp">
+        <p>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor</p>
+        <div class="slide-wrp">
+            <img src="Content/Images/temporary-gaz-slide.png" />
+        </div>
+    </div>
+</div>
+
+
+

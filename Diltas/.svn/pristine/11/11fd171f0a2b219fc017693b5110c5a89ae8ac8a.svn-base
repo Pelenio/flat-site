@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "ogs_basarilari";
+}
+<div class="bg-page-wrp  js-bg-img-wrp js-glid-trans-type">
+    <img class="book-pos hidden" data-show-mode="top" data-top="-178px"  src="Content/Images/book.png" />
+    <img class="pen-pos" data-show-mode="top-specific" data-top-spec="162px"  data-top="-90px" src="Content/Images/pen.png" />
+    <img class="pencil-pos" data-show-mode="top-specific" data-top-spec="278px" data-top="-109px" src="Content/Images/pencil.png" />
+    <img class="desk-pos" data-show-mode="right-specific" data-right-spec="8px" data-right="-297px" src="Content/Images/desk.png" />
+</div>
+<div class="animsition">
+    <div class="p-content">
+        <div class="p-cont-header clearfix ">
+            <h3><span class="slant-line desk-hidden"></span>OGES Başarılarımız</h3>
+        </div>
+        <div class="cont-wrp sport-bas-wrp">
+            <span class="slant-line mob-hidden"></span>
+            <p>
+                This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit.
+            </p>
+            <p>
+                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.
+            </p>
+            <p>
+                Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.
+            </p>
+        </div>
+        <div class="dev-arr-wrp dev-with-text">
+            <a href="./sportif_faaliyetler.html" class="animsition-link js-glid-trans-next">devam</a>
+        </div>
+    </div>
+</div>

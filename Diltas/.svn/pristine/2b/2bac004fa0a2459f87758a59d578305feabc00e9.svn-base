@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "sportif_faaliyetler";
+}
+
+<div class="bg-page-wrp js-bg-img-wrp">
+    <img class="voll-ball-pos hidden" data-show-mode="top" data-top="-62px" src="Content/Images/volleyball-icon.png" />
+    <img class="bask-hoop-pos" data-show-mode="right-specific" data-right-spec="46px" data-right="-108px" src="Content/Images/basketball-hoop.png" />
+    <img class="bask-ball-pos" data-show-mode="top-right-specific" data-top-spec="103px" data-right-spec="286px" data-top="-108px" data-right="-108px" src="Content/Images/basketball-ball.png" />
+    <img class="foot-ball-pos" data-show-mode="bottom" data-bottom="-100px" src="Content/Images/football-icon.png" />
+</div>
+<div class="animsition js-page-glid-trans">
+    <div class="p-content">
+        <div class="p-cont-header clearfix ">
+            <h3><span class="slant-line desk-hidden"></span>Sportİf Başarılarımız</h3>
+        </div>
+        <div class="cont-wrp sport-bas-wrp">
+            <span class="slant-line mob-hidden"></span>
+            <p>
+                This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit.
+            </p>
+            <p>
+                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.
+            </p>
+            <p>
+                Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit.
+            </p>
+        </div>
+        <div class="dev-arr-wrp dev-with-text">
+            <a href="/ogs_basarilari.html" class="animsition-link js-glid-trans-next">devam</a>
+        </div>
+    </div>
+</div>

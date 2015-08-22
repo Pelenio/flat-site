@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "guncel_haberler";
+}
+
+<div class="p-content">
+    <div class="p-cont-header clearfix ">
+        <h3><span class="slant-line desk-hidden"></span>GÜNCEL HABERLER</h3>
+    </div>
+    <div class="cont-wrp gunc-hab-wrp">
+        <span class="slant-line mob-hidden"></span>
+
+        <div class="gun-hab-item clearfix">
+            <h2>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. </h2>
+            <div>
+                <div class="hab-img-wrp left-hab-img">
+                    <img src="Content/Images/temporary-gun-hab-img.png" />
+                </div>
+                <div class="hab-text-wrp">
+                    <p>
+                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+                    </p>
+                    <a href="#">Devamını Oku >></a>
+                </div>
+            </div>
+        </div>
+        <div class="gun-hab-item clearfix">
+            <h2>Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. </h2>
+            <div>
+                <div class="hab-img-wrp right-hab-img">
+                    <img src="Content/Images/temporary-gun-hab-img.png" />
+                </div>
+                <div class="hab-text-wrp">
+                    <p>
+                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+                    </p>
+                    <a href="#">Devamını Oku >></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

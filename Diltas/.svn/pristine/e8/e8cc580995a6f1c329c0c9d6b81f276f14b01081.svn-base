@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "tarihcemiz_1";
+}
+<div class="bg-page-wrp js-bg-img-wrp js-glid-trans-type">
+    <img class="ter-1-pos mob-hidden hidden" data-show-mode="bottom" data-bottom="-109px" src="Content/Images/ter-img-1-bottom.png">
+    <img class="ter-2-pos mob-hidden hidden" data-show-mode="bottom-left" data-bottom="-124px" data-left="-124px" src="Content/Images/ter-img-2-bottom-left.png" />
+    <img class="ter-3-pos mob-hidden hidden" data-show-mode="right" data-right="-343px" src="Content/Images/ter-img-3-right.png" />
+    <img class="ter-4-pos mob-hidden hidden" data-show-mode="top" data-top="-209px" src="Content/Images/ter-img-4-top.png" />
+    <img class="ter-5-pos mob-hidden hidden" data-show-mode="top" src="Content/Images/ter-img-5.png" />
+
+
+    <img class="ter-1-mob-top-right desk-hidden hidden" data-show-mode="top-right" data-top="-209px" data-right="-209px" src="Content/Images/ter-1-mob-top-right.png" />
+    <img class="ter-2-mob-bottom-right desk-hidden hidden" data-show-mode="bottom-right" data-bottom="-163px" data-right="-204px" src="Content/Images/ter-2-mob-bottom-right.png" />
+    <img class="ter-3-mob-top-left desk-hidden hidden" data-show-mode="top-left" data-top="-52px" data-left="-228px" src="Content/Images/ter-3-mob-top-left.png" />
+    <img class="ter-4-mob-left desk-hidden hidden" data-show-mode="left" data-left="-154px"  src="Content/Images/ter-4-mob-left.png" />
+</div>
+<div class="animsition">
+    <div class="p-content">
+        <div class="p-cont-header clearfix ">
+            <h1 class="large-mob-font"><span class="large-slant-line desk-hidden"></span>TARIHÇEMIZ</h1>
+        </div>
+        <div class="cont-wrp tarih-wrp">
+            <span class="slant-line mob-hidden"></span>
+            <p>
+                1980 yılında İnceminare Müzesinin hemen yanında dil kursu olarak küçük bir binada açılanDiltaş, 1984 yılından itibaren üniversite hazırlık kurslarına başlamış, o dönem sayısız öğrenciye üniversite kapısını açarak kendini kanıtlamıştır.
+            </p><p>
+                Başarılarıyla Konya’da veTürkiye’de ismini duyurmaya başlayan Diltaş, 1987 yılından itibaren eğitim sektöründeki faaliyetlerine Özel Diltaş Lisesiyle devam etmiştir.
+                Eğitime yön veren ciddi adımlarıyla ve çalışmalarıyla büyük işlere imza atan Diltaş, 1993yılından itbaren Selçuklu ilçesi Fatih Işıklar semtinde kendine ait binasına taşınarak buradaDiltaş İlköğretim Okulunu da açmıştır. Yoğun ilgi ve artan talebe cevap vermek adına 2003yılında Meram ilçesi Yaka semtinde Sosyal Tesisler’I de bünyesinde barındıran ikincibinasını, 2007 yılında yine aynı bölgede Diltaş Anadolu Lisesini açarak eğitimdeki gücüne güç katmıştır.
+            </p><p>
+                İlklerin kurumu olan Diltaş, bugün yeni yatırımlarıyla Türkiyemizin “Eğitimde Önder”I olmaya devam etmektedir.
+
+            </p><p>
+                İlklerin kurumu olan Diltaş, bugün yeni yatırımlarıyla Türkiyemizin “Eğitimde Önder”I
+                olmaya devam etmektedir.
+            </p>
+        </div>
+        <div class="dev-arr-wrp dev-with-text">
+            <a href="/tarihcemiz_2.html" class="animsition-link js-glid-trans-next">devam</a>
+        </div>
+    </div>
+</div>

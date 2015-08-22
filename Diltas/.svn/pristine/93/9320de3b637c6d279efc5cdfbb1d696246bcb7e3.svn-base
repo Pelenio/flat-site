@@ -1,0 +1,395 @@
+﻿@{
+    ViewBag.Title = "yemek_listesi";
+}
+<div class="bg-page-wrp">
+    <img class="yemek-bg-pos" src="Content/Images/yemek-bg.jpg" />
+</div>
+<div class="p-content">
+    <div class="p-cont-header clearfix ">
+        <h2 class="yemek-title"><span class="slant-line"></span>Yemek ve Kahvaltı Lİstesİ</h2>
+        <h3>HAZİRAN</h3>
+    </div>
+    <div class="cont-wrp yemek-wrp">
+        <ul class="hafta-title-items clearfix nav nav-tabs">
+            <li class="active">
+                <a href="#hafta-1" role="tab" data-toggle="tab">
+                    1. HAFTA
+                </a>
+            </li>
+            <li>
+                <a href="#hafta-2" role="tab" data-toggle="tab">
+                    2. HAFTA
+                </a>
+            </li>
+            <li>
+                <a href="#hafta-3" role="tab" data-toggle="tab">
+                    3. HAFTA
+                </a>
+            </li>
+            <li>
+                <a href="#hafta-4" role="tab" data-toggle="tab">
+                    4. HAFTA
+                </a>
+            </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="clearfix">
+            <div class="tab-content hafta-tab-cont-items">
+                <div class="tab-pane fade active in" id="hafta-1">
+                    <h2>SABAH KAHVALTI LİSTESİ #1</h2>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th><span>Pazartesİ</span></th>
+                                <th><span>Salı</span></th>
+                                <th><span>Çarşamba</span></th>
+                                <th><span>Perşembe</span></th>
+                                <th><span>Cuma</span></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşarlı Tost</span></li>
+                                        <li>
+                                            <span>Meyve Suyu</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Tereyağ</span></li>
+                                        <li>
+                                            <span>Ceviz</span>
+                                        </li>
+                                        <li>
+                                            <span>Bal</span>
+                                        </li>
+                                        <li>
+                                            <span>Yeşil Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Omlet</span></li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşar Peynir</span></li>
+                                        <li>
+                                            <span>Reçel</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Beyaz Peynir</span></li>
+                                        <li>
+                                            <span>Siyah Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span> Süt</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h2 class="ogl-title">Öğle yemeğİ LİSTESİ</h2>
+                </div>
+                <div class="tab-pane fade" id="hafta-2">
+                    <h2>SABAH KAHVALTI LİSTESİ #2</h2>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th><span>Pazartesİ</span></th>
+                                <th><span>Salı</span></th>
+                                <th><span>Çarşamba</span></th>
+                                <th><span>Perşembe</span></th>
+                                <th><span>Cuma</span></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşarlı Tost</span></li>
+                                        <li>
+                                            <span>Meyve Suyu</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Tereyağ</span></li>
+                                        <li>
+                                            <span>Ceviz</span>
+                                        </li>
+                                        <li>
+                                            <span>Bal</span>
+                                        </li>
+                                        <li>
+                                            <span>Yeşil Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Omlet</span></li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşar Peynir</span></li>
+                                        <li>
+                                            <span>Reçel</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Beyaz Peynir</span></li>
+                                        <li>
+                                            <span>Siyah Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span> Süt</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h2 class="ogl-title">Öğle yemeğİ LİSTESİ</h2>
+                </div>
+                <div class="tab-pane fade" id="hafta-3">
+                    <h2>SABAH KAHVALTI LİSTESİ #3</h2>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th><span>Pazartesİ</span></th>
+                                <th><span>Salı</span></th>
+                                <th><span>Çarşamba</span></th>
+                                <th><span>Perşembe</span></th>
+                                <th><span>Cuma</span></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşarlı Tost</span></li>
+                                        <li>
+                                            <span>Meyve Suyu</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Tereyağ</span></li>
+                                        <li>
+                                            <span>Ceviz</span>
+                                        </li>
+                                        <li>
+                                            <span>Bal</span>
+                                        </li>
+                                        <li>
+                                            <span>Yeşil Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Omlet</span></li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşar Peynir</span></li>
+                                        <li>
+                                            <span>Reçel</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Beyaz Peynir</span></li>
+                                        <li>
+                                            <span>Siyah Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span> Süt</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h2 class="ogl-title">Öğle yemeğİ LİSTESİ</h2>
+                </div>
+                <div class="tab-pane fade" id="hafta-4">
+                    <h2>SABAH KAHVALTI LİSTESİ #4</h2>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th><span>Pazartesİ</span></th>
+                                <th><span>Salı</span></th>
+                                <th><span>Çarşamba</span></th>
+                                <th><span>Perşembe</span></th>
+                                <th><span>Cuma</span></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşarlı Tost</span></li>
+                                        <li>
+                                            <span>Meyve Suyu</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Tereyağ</span></li>
+                                        <li>
+                                            <span>Ceviz</span>
+                                        </li>
+                                        <li>
+                                            <span>Bal</span>
+                                        </li>
+                                        <li>
+                                            <span>Yeşil Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Omlet</span></li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Kaşar Peynir</span></li>
+                                        <li>
+                                            <span>Reçel</span>
+                                        </li>
+                                        <li>
+                                            <span>Salatalık</span>
+                                        </li>
+                                        <li>
+                                            <span>Bitki Çayı</span>
+                                        </li>
+
+                                    </ul>
+                                </td>
+                                <td>
+                                    <ul>
+                                        <li><span>Beyaz Peynir</span></li>
+                                        <li>
+                                            <span>Siyah Zeytin</span>
+                                        </li>
+                                        <li>
+                                            <span>Domates</span>
+                                        </li>
+                                        <li>
+                                            <span> Süt</span>
+                                        </li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <h2 class="ogl-title">Öğle yemeğİ LİSTESİ</h2>
+                </div>
+            </div>
+        </div>
+        <div class="dev-arr-wrp dev-with-text">
+            <a href="#">devam</a>
+        </div>
+    </div>
+</div>
+
+
+

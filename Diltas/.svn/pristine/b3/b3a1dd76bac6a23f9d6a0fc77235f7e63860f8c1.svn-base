@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "destek_hizmetleri";
+}
+<div class="bg-page-wrp">
+    <img class="child-helmet-pos" src="Content/Images/child-with-helmet.jpg" />
+</div>
+<div class="p-content">
+    <div class="p-cont-header clearfix ">
+        <h3 class="destek-title"><span class="large-slant-line desk-hidden"></span>DESTEK HİZMETLERİ</h3>
+    </div>
+    <div class="cont-wrp dest-wrp">
+        <span class="slant-line mob-hidden"></span>
+        <p>
+            This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit.
+        </p>
+        <p>
+            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.
+        </p>
+    </div>
+    <div class="dev-arr-wrp dev-with-text">
+        <a href="#">devam</a>
+    </div>
+</div>

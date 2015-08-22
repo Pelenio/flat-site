@@ -1,0 +1,88 @@
+﻿@{
+
+    ViewBag.Title = "Okullar";
+}
+<div class="bg-page-wrp">
+    <img class="rg-woman-face-pos" src="Content/Images/woman-face.png" />
+</div>
+<div class="p-content">
+    <div class="p-cont-header clearfix">
+        <h2><span class="slant-line"></span>EĞİTİM KADROMUZ</h2>
+    </div>
+    <div class="egitim-kadr-wrp">
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="egitim-toggle accordion-toggle collapsed" data-toggle="collapse" href="#collapseCrehVePsik">
+                    CREHBERLİK VE PSİKOLOJİK DANIŞMANLIK
+                </a>
+            </div>
+            <div id="collapseCrehVePsik" class="accordion-body collapse">
+                <div class="egitim-inner-links accordion-inner">
+                    <a href="#">
+                        <p>Serdar ÖZTAŞ</p>
+                        <span>
+                            Geometri
+                        </span><span>
+                            Matematik Bölüm Başkanı
+                        </span>
+                    </a>
+                    <a href="#">
+                        <p>
+                            Ali AKAN
+                        </p>
+                        <span>Matematik</span>
+                    </a>
+                    <a href="#">
+                        <p>Ayşe BUYRUCU</p>
+                        <span>Matematik</span>
+                    </a>
+                    <a href="#">
+                        <p>Harun ECER</p>
+                        <span>Matematik</span>
+                    </a>
+                    <a href="#">
+                        <p>Harun ÖNDER</p>
+                        <span>Matematik</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="accordion-group">
+            <div class="accordion-heading">
+                <a class="egitim-toggle accordion-toggle collapsed" data-toggle="collapse" href="#collapseMatVeGeom">
+                    MATEMATİK VE GEOMETRİ
+                </a>
+            </div>
+            <div id="collapseMatVeGeom" class="accordion-body collapse">
+                <div class="egitim-inner-links accordion-inner">
+                    <a href="#">
+                        <p>Serdar ÖZTAŞ</p>
+                        <span>
+                            Geometri
+                        </span><span>
+                            Matematik Bölüm Başkanı
+                        </span>
+                    </a>
+                    <a href="#">
+                        <p>
+                            Ali AKAN
+                        </p>
+                        <span>Matematik</span>
+                    </a>
+                    <a href="#">
+                        <p>Ayşe BUYRUCU</p>
+                        <span>Matematik</span>
+                    </a>
+                    <a href="#">
+                        <p>Harun ECER</p>
+                        <span>Matematik</span>
+                    </a>
+                    <a href="#">
+                        <p>Harun ÖNDER</p>
+                        <span>Matematik</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

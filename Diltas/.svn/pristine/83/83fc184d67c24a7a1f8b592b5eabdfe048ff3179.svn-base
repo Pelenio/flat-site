@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Hakimizda";
+}
+<div class="bg-page-wrp">
+    <img class="rg-child-face-pos" src="Content/Images/child-face.png" />
+</div>
+
+<div class="p-content hakimizda-content">
+    <div class="p-cont-header clearfix">
+        <h1><span class="above-header-text large-slant-line">DAVET</span>BIRLIKTE OKUYALIM</h1>
+    </div>
+    <div class="main-davet-wrp">
+        <div class="md-img-wrp">
+            <img src="Content/Images/books-main-page.png" />
+        </div>
+        <a class="blue-btn" href="#">
+            Davet
+            Detayları
+        </a>
+    </div>
+    <div class="dev-arr-wrp">
+        <a href="#"></a>
+    </div>
+</div>
+

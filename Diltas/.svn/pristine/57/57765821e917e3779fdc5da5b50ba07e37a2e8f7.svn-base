@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "pages";
+}
+
+<ul>
+    <li>
+        <a href="hakimizda.html" target="_blank">hakimizda.html</a>
+    </li>
+    <li>
+        <a href="tarihcemiz.html" target="_blank">tarihcemiz.html</a>
+    </li>
+    <li>
+        <a href="tarihcemiz_1.html" target="_blank">tarihcemiz_1.html</a>
+    </li>    
+    <li>
+        <a href="idari_yapimiz.html" target="_blank">idari_yapimiz.html</a>
+    </li>
+    <li>
+        <a href="haber_arsivi_sm.html" target="_blank">haber_arsivi_sm.html</a>
+    </li>
+    <li>
+        <a href="Etkinlik.html" target="_blank">Etkinlik.html</a>
+    </li>
+    <li>
+        <a href="egitim_kadromuz.html" target="_blank">egitim_kadromuz.html</a>
+    </li>
+    <li>
+        <a href="yemek_listesi.html" target="_blank">yemek_listesi.html</a>
+    </li>
+    <li>
+        <a href="gazete_diltas.html" target="_blank">gazete_diltas.html</a>
+    </li>
+    <li>
+        <a href="veli_ogrenci_el_kitabi.html" target="_blank">veli_ogrenci_el_kitabi.html</a>
+    </li>
+    <li>
+        <a href="mobile_anasayfa_1.html" target="_blank">mobile_anasayfa_1.html</a>
+    </li>
+    <li>
+        <a href="mobile_anasayfa_2.html" target="_blank">mobile_anasayfa_2.html</a>
+    </li>
+    <li>
+        <a href="destek_hizmetleri.html" target="_blank">destek_hizmetleri.html</a>
+    </li>
+    <li>
+        <a href="ataturk_kosesi.html" target="_blank">ataturk_kosesi.html</a>
+    </li>
+    <li>
+        <a href="ogs_basarilari.html" target="_blank">ogs_basarilari.html</a>
+    </li>
+    <li>
+        <a href="sportif_faaliyetler.html" target="_blank">sportif_faaliyetler.html</a>
+    </li>
+    <li>
+        <a href="guncel_haberler.html" target="_blank">guncel_haberler.html</a>
+    </li>
+</ul>
